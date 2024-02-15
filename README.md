@@ -1,3 +1,3 @@
 # My_gmail_Template
-I use this as my standard Email Template and href my images from my hosting server. 
+This is for the $100 special for a gmail template.
 ```not on gh pages  
