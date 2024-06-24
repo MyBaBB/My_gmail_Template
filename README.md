@@ -1,3 +1,3 @@
 # My_gmail_Template
-This is for the $100 special for a gmail template.
+This is my the new React-email  
 ```not on gh pages  
